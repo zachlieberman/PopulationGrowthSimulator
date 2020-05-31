@@ -1,5 +1,5 @@
 # PopulationGrowthSimulator
-Final Project that generated data, tables, and graphs for population growth.
+Final C-Language Project that generated data, tables, and graphs for population growth.
 
 Analyze.cpp: Imports lopop and analyzes the data by mean and standard deviation. 
 
